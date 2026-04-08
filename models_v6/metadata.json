@@ -1,0 +1,66 @@
+{
+  "AAPL": {
+    "source": "synthetic_demo",
+    "n_rows": 1318,
+    "n_features": 98,
+    "in_sample_acc": 1.0,
+    "generated_at": "2026-04-08T15:57:19.612970",
+    "trained_at": "2026-04-08T15:57:19.714131"
+  },
+  "MSFT": {
+    "source": "synthetic_demo",
+    "n_rows": 1318,
+    "n_features": 98,
+    "in_sample_acc": 1.0,
+    "generated_at": "2026-04-08T15:57:30.112705",
+    "trained_at": "2026-04-08T15:57:30.219817"
+  },
+  "NVDA": {
+    "source": "synthetic_demo",
+    "n_rows": 1318,
+    "n_features": 98,
+    "in_sample_acc": 1.0,
+    "generated_at": "2026-04-08T15:57:41.633137",
+    "trained_at": "2026-04-08T15:57:41.726432"
+  },
+  "JPM": {
+    "source": "synthetic_demo",
+    "n_rows": 1318,
+    "n_features": 98,
+    "in_sample_acc": 0.92,
+    "generated_at": "2026-04-08T15:57:51.408770",
+    "trained_at": "2026-04-08T15:57:51.511602"
+  },
+  "RELIANCE.NS": {
+    "source": "synthetic_demo",
+    "n_rows": 1318,
+    "n_features": 98,
+    "in_sample_acc": 1.0,
+    "generated_at": "2026-04-08T15:58:02.540396",
+    "trained_at": "2026-04-08T15:58:02.632066"
+  },
+  "INFY.NS": {
+    "source": "synthetic_demo",
+    "n_rows": 1318,
+    "n_features": 98,
+    "in_sample_acc": 1.0,
+    "generated_at": "2026-04-08T15:58:12.722978",
+    "trained_at": "2026-04-08T15:58:12.818299"
+  },
+  "GOOGL": {
+    "source": "synthetic_demo",
+    "n_rows": 1318,
+    "n_features": 98,
+    "in_sample_acc": 1.0,
+    "generated_at": "2026-04-08T15:58:23.719338",
+    "trained_at": "2026-04-08T15:58:23.819932"
+  },
+  "TSLA": {
+    "source": "synthetic_demo",
+    "n_rows": 1318,
+    "n_features": 98,
+    "in_sample_acc": 1.0,
+    "generated_at": "2026-04-08T15:58:35.215000",
+    "trained_at": "2026-04-08T15:58:35.327142"
+  }
+}
