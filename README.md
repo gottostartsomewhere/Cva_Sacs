@@ -23,25 +23,25 @@ A research-grade equity stress-testing terminal — 130 engineered features, a c
 ## Screenshots
 
 <p align="center">
-  <img src="docs/01-market-overview.png" width="800" alt="Market overview — regime distribution and CRI heatmap"/>
+  <img src="docs/01-market-overview.jpg" width="800" alt="Market overview — regime distribution and CRI heatmap"/>
   <br/>
   <em>Market Overview — regime distribution and CRI heatmap across the universe</em>
 </p>
 
 <p align="center">
-  <img src="docs/02-ticker-deepdive.png" width="800" alt="Ticker deep dive with SHAP waterfall"/>
+  <img src="docs/02-ticker-deepdive.jpg" width="800" alt="Ticker deep dive with SHAP waterfall"/>
   <br/>
   <em>Ticker Deep Dive — per-name CRI with SHAP attribution on the ensemble's prediction</em>
 </p>
 
 <p align="center">
-  <img src="docs/03-ensemble.png" width="800" alt="Ensemble inspector — per-model probabilities"/>
+  <img src="docs/03-ensemble.jpg" width="800" alt="Ensemble inspector — per-model probabilities"/>
   <br/>
   <em>Ensemble Inspector — XGBoost · LightGBM · CatBoost probabilities side by side, disagreement surfaced</em>
 </p>
 
 <p align="center">
-  <img src="docs/04-monte-carlo.png" width="800" alt="Monte Carlo simulation paths"/>
+  <img src="docs/04-monte-carlo.jpg" width="800" alt="Monte Carlo simulation paths"/>
   <br/>
   <em>Monte Carlo — forward GBM paths calibrated to the current regime</em>
 </p>
